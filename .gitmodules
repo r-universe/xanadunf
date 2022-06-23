@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "matchbook"]
+	path = matchbook
+	url = https://github.com/xanadunf/matchbook
+	shallow = true
+	registered = true
